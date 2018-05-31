@@ -20,5 +20,5 @@
       <CodeGeneration>compute_50,sm_50</CodeGeneration>
     </CudaCompile>
   </ItemDefinitionGroup>
-  <ItemGroup />
+  <ItemGroup/>
 </Project>
